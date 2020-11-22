@@ -1,0 +1,2 @@
+# japanice
+Learning japanese
